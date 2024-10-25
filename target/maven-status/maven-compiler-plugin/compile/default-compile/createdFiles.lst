@@ -1,0 +1,4 @@
+com\pages\HomePage.class
+com\pages\LoginPage.class
+com\configuration\Base.class
+com\utilities\Utilities.class
