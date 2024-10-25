@@ -10,6 +10,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 	</properties>
 	<dependencies>
+		<!--update -->
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
